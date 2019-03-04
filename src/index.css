@@ -1,0 +1,10 @@
+.choice {
+  padding: 10px;
+  border-radius: 50%;
+  border: 2px solid black;
+  margin-top: 15px;
+}
+
+.choice-padding {
+  padding: 15px;
+}
