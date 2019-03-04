@@ -1,3 +1,6 @@
+![](screen-shots/2.png)
+
+
 Please run 'npm install' to install required npm dependencies
 
 Run 'npm test' to test component rendering, test can be found in App.test.js
